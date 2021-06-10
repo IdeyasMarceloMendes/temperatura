@@ -1,4 +1,4 @@
-# Tempo portos
+# Temperatura
 Um exemplo de uso de consumo de uma api de previsão do tempo.  
 A api usada é https://hgbrasil.com/status/weather/  
 Foi escolhida pela sua facilidadede uso e permissão de até 400 requisições dia de forma gratuita.   
